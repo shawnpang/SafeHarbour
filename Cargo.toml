@@ -1,0 +1,3 @@
+[dependencies]
+solana-program = "1.8"
+borsh = "0.9"
